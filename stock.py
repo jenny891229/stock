@@ -1,5 +1,5 @@
--m pip install pandas as pd
--m pip install streamlit as st
+!pip install -U pandas as pd
+!pip install -U streamlit as st
 
 import requests
 import geoip2.database
